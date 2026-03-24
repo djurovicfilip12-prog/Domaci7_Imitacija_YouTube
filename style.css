@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.thumbnail_style {
+  width: 65%;
+  border-radius: 8px;
+  height: 160px;
+}
+.div_thu {
+  text-align: center;
+  background-color: white;
+  width: 400px;
+  display: inline-block;
+}
+.video_list {
+  text-align: center;
+  margin-top: 20px;
+  background-color: white;
+}
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.subtext {
+  text-align: center;
+  color: rgb(77, 76, 76);
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+}
